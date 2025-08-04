@@ -1,6 +1,20 @@
 # Boss
-## 1 ()
-## 2 ()
-## 3 ()
 
-# Pull
+
+## 1 - **Halkias, the Sin-Stained Goliath**
+- 
+
+---
+
+## 2 - **Echelon**
+- 
+
+--- 
+
+## 3 - **High Adjudicator Aleez**
+- 
+
+---
+
+## 4 - **Lord Chamberlain**
+- 
