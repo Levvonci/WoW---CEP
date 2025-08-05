@@ -7,3 +7,5 @@ La cartella **PDF** contiene l'export dei file MarkDown, per una visualizzazione
 
 Per scaricare il tutto vi basterá clickare sul pulsante verde a destra **Code** e clickare su Download Zip.
 
+![](https://github.com/Levvonci/WoW---CEP/blob/main/assets/Come_Scaricare.png)
+
