@@ -1,9 +1,0 @@
-{
-  "cssTheme": "Obsidianite",
-  "baseFontSize": 18,
-  "interfaceFontFamily": "Arial",
-  "textFontFamily": "Fira Code",
-  "baseFontSizeAction": true,
-  "showRibbon": true,
-  "nativeMenus": false
-}
