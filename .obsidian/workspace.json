@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MD/Market.md",
+                "file": "MD/Gambit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Market"
+              "title": "Gambit"
             }
           }
         ]
@@ -190,22 +190,31 @@
   },
   "active": "bba40bbfb434979a",
   "lastOpenFiles": [
-    "assets/The Grand Menagerie.jpg",
-    "assets/Zo'phex the Sentinel.jpg",
-    "MD/Priory of the Sacred Flame.md",
-    "MD/Market.md",
-    "MD/Streets.md",
-    "MD/The Dawnbreaker.md",
-    "assets/prioress-murrpray.jpg",
-    "assets/baron-braunpyke.jpg",
-    "assets/captain-dailcry.jpg",
+    "assets/soleah.jpg",
+    "assets/timecap-hooktail.jpg",
+    "assets/HylbrandeFight.jpg.png",
+    "assets/hylbrande.jpg",
     "MD/Halls of Atonement.md",
-    "MD/Floodgate.md",
+    "MD/Market.md",
+    "MD/Gambit.md",
     "MD/Eco-Dome Aldhani.md",
+    "PDF/Halls of Atonement.pdf",
+    "assets/lord-chamberlain.jpg",
+    "assets/high-adjudicator-aleez.jpg",
+    "assets/echelon.jpg",
+    "assets/halkias.jpg",
+    "MD/Floodgate.md",
+    "MD/Priory of the Sacred Flame.md",
+    "MD/The Dawnbreaker.md",
+    "PDF/Ara-Kara.pdf",
+    "PDF/Market.pdf",
+    "PDF/The Dawnbreaker.pdf",
+    "README.md",
+    "PDF/Floodgate.pdf",
+    "assets/Zona_So'Azmin.jpg",
+    "assets/So'azmi.jpg",
+    "assets/Zo'gron.jpg",
     "MD/Ara-Kara.md",
-    "assets/Soul-Scribe.jpg",
-    "assets/Taah’bat and A’wazj Trash.jpg",
-    "assets/Azhiccar.jpg",
     "ASD/MOD I/prove_esami/2024_2025/ASD_compito2025_06_26_mod1.pdf",
     "ASD/MOD I/prove_esami_svolte/2024_2025/26_06_25.md",
     "ASD/MOD I/Libro.pdf",
@@ -213,17 +222,10 @@
     "ASD/MOD I/prove_esami_svolte/2024_2025",
     "ASD/MOD I/prove_esami_svolte",
     "ASD/MOD I/Lezioni/Capitolo 6.2 - Alberi AVL.md",
-    "ASD/MOD I/img/img0.png",
-    "ASD/MOD I/img/img0_1.jpg",
     "ASD/MOD I/Algoritmi.md",
     "ASD/MOD I/Lezioni/Capitolo 2.2 - Ricorsione, tecniche di progettazione e equazioni di ricorrenza.md",
     "ASD/MOD I/Lezioni/Capitolo 1 - Un'introduzione informale agli algoritmi.md",
     "ASD/MOD II/slides/10_hash_table_2024.pdf",
-    "ASD/MOD II/slides/09_Apx_Algorithms_I_2024.pdf",
-    "ASD/MOD II/slides/09_Apx_Algorithms_II_2024.pdf",
-    "ASD/MOD II/slides/08_Intractability_I_2024.pdf",
-    "ASD/MOD II/slides/07_Network_Flow_I_2024.pdf",
-    "ASD/MOD II/slides/08_Intractability_III_2024.pdf",
     "ASD/1/Lezioni/Capitolo 1 - Un'introduzione informale agli algoritmi.md",
     "ASD/MOD I/AlgoritmiSpiegati/RadixSort/RadixSort.md",
     "ASD/MOD I/AlgoritmiSpiegati/QuickSort/QuickSort.md",
@@ -232,9 +234,7 @@
     "ASD/MOD I/AlgoritmiSpiegati/BucketSort/BucketSort.md",
     "ASD/MOD I/AlgoritmiSpiegati/HeapSort/HeapSort.md",
     "ASD/MOD I/AlgoritmiSpiegati/BubbleSort/BubbleSort.md",
-    "ASD/MOD I/img/Pasted image 20250730183651.png",
     "ASD/MOD I/Teoria/Notazione Asintotica.md",
-    "ASD/MOD I/Teoria/Equazioni di ricorrenza.md",
-    "ASD/MOD I/Teoria/Crescita delle funzioni.md"
+    "ASD/MOD I/Teoria/Equazioni di ricorrenza.md"
   ]
 }
