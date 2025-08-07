@@ -12,3 +12,9 @@ Per scaricare il tutto vi basterá clickare sul pulsante verde a destra **Code**
 
 Estrarre i file dalla zip folder e il gioco é fatto :)
 
+---
+# Novitá
+
+Ho aggiunto l'ultima cartella in cui all'interno sono contenuti i route delle varie chiavi.
+Utilizzare l'addon **Mythic Dungeon Tool** per importarli
+
